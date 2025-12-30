@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Maitane Ibáñez
+# ¡Hola! 👋 Soy Maitane
 
 ## 🚀 Desarrolladora Android & Multiplataforma
 
