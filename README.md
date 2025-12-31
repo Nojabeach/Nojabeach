@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nojabeach/Nojabeach/main/icon.png" width="120" height="120" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
+  <img src="https://maigymios.web.app/icon.png" width="120" height="120" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.15);">
   <h1>✨ Maitane (Mai)</h1>
   <p><strong>Android & Multiplatform Developer | UI/UX Enthusiast | Clean Architecture Advocate</strong></p>
 
