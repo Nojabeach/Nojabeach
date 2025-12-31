@@ -67,9 +67,7 @@ Sistema integral de gestión para centros educativos infantiles.
 ### 🌱 Conectemos
 Si buscas una desarrolladora comprometida con la excelencia técnica y estética, ¡hablemos!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nojabeach&show_icons=true&theme=calm&hide_border=true&title_color=22c55e" alt="Stats de GitHub" />
-</div>
+
 
 ---
 <p align="center">
